@@ -134,5 +134,3 @@ sudo systemctl status sonar
 sudo tail -f /opt/sonarqube/logs/sonar.log
 
 ```
-
-sqp_707279f33e5cd64465a11ef0d708398b5eb3146b
